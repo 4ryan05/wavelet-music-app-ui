@@ -1,0 +1,21 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-11-04T12:00:00Z"},
+  "lists": "css",
+  "title": "Wavelet – Music Streaming App UI",
+  "cover": "cover",
+  "order": ["cover", "problem", "process", "personas", "requirements", "sitemap", "userflow", "wireframes", "designsystem", "mobile1", "mobile2", "mobile3", "controls", "desktop", "principles", "metrics", "thanks"],
+  "sections": {
+    "intro": {"description": "The problem we set out to solve and how we approached it.", "start": "cover"},
+    "research": {"description": "Who the users are and what the business needs.", "start": "personas"},
+    "structure": {"description": "Information architecture, the main user flow and low-fi wireframes.", "start": "sitemap"},
+    "ui": {"description": "Design system and the final mobile and desktop screens.", "start": "designsystem"},
+    "evaluation": {"description": "The principles we applied and how we would measure UX.", "start": "principles"},
+    "close": {"description": "Prototype demo and questions.", "start": "thanks"}
+  },
+  "faces": {
+    "space-grotesk": {"family": "Space Grotesk", "href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"},
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"}
+  },
+  "designSystems": []
+}
