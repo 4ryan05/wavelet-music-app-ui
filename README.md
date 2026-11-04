@@ -1,7 +1,5 @@
 # Wavelet: Music Streaming App UI
 
-A UI/UX mini project for **UI/UX Design (BISUI714)**, Semester VII, Department of CSE (AI & ML), VVCE Mysuru.
-
 Wavelet is a music streaming app designed to be calm, clear and easy to use. The goal: **any song within 3 taps, and playback always 1 tap away**, on both mobile and desktop.
 
 - **Figma file (design system, wireframes, final UI, clickable prototype):** https://www.figma.com/design/jVc6M1gpwdNEPC2my4Utud
