@@ -67,16 +67,6 @@ To try the prototype, open page 3 in Figma and press **▶ Present**.
 - **Spacing:** 8-point grid; corner radius 8 / 12 / 16 / 24
 - **Components:** Button, Text Field, Checkbox, Radio, Toggle, Chip, Album Card, Artist Avatar, Playlist Tile, Section Header, Track Row, Seek Slider, Tab Bar, Mini Player, Status Bar, Cover
 
-## Syllabus mapping
-
-| Module | Where it shows |
-|---|---|
-| 1. Importance of UI, design principles | Consistency, system status, recognition over recall, Fitts's law, error prevention, accessibility |
-| 2. Know your client, business functions | Personas and business-function analysis in the UX brief |
-| 3. Menus, navigation, windows | Bottom tab bar (mobile), sidebar (desktop), mini player, Now Playing |
-| 4. Screen-based controls | Buttons, text boxes, checkboxes, radio buttons, toggles, seek slider, chips |
-| 5. UX, IA, wireframes, mobile and desktop, measuring UX | Sitemap, wireframes, mobile and desktop screens, UX metrics and test plan |
-
 ## UX metrics (targets)
 
 These are design targets, not test results.
