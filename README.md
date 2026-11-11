@@ -3,7 +3,6 @@
 Wavelet is a music streaming app designed to be calm, clear and easy to use. The goal: **any song within 3 taps, and playback always 1 tap away**, on both mobile and desktop.
 
 - **Figma file (design system, wireframes, final UI, clickable prototype):** https://www.figma.com/design/jVc6M1gpwdNEPC2my4Utud
-- **Team:** [Team member names]
 
 <p align="center">
   <img src="screens/mobile/m01-welcome.png" width="220" alt="Welcome screen">
